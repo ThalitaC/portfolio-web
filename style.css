@@ -57,5 +57,17 @@ h1 {
 
 #info-text {
     padding-top: 150px;
-
 }
+
+h2 {
+    text-align: center;
+}
+#habilidades {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: seagreen;
+}
+
+
