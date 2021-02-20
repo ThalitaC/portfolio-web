@@ -19,7 +19,7 @@ body {
 .menu-itens a {
     color: black;
     text-decoration-line: none;
-    margin: 25px;       
+    margin-right: 50px;       
 }
 
 .menu-itens a:hover {
