@@ -62,12 +62,21 @@ h1 {
 h2 {
     text-align: center;
 }
+
 #habilidades {
     display: block;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
-    background-color: seagreen;
 }
 
+#contato {
+    height: 50px;
+    background-color: snow;
+}
+
+#rodape {
+    background-color: black;
+    height: 20px;
+}
 
