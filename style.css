@@ -17,6 +17,7 @@ body {
 }
 
 .menu-itens a {
+    font-size: 20px;
     color: black;
     text-decoration-line: none;
     margin-right: 50px;       
@@ -69,12 +70,15 @@ h1 {
 }
 
 h2 {
+    font-size: 40px;
     text-align: center;
 }
 
 #habilidades {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
     display: block;
-    width: 250px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
 }
