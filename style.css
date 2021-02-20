@@ -17,6 +17,7 @@ body {
 }
 
 .menu-itens a {
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: black;
     text-decoration-line: none;
@@ -33,27 +34,28 @@ body {
     font-weight: 50;
     text-align: center;
     background-color:rebeccapurple;
-    height: 350px;    
+    height: 500px;    
 }
 
 h1 {
     margin: 0px;
-    padding-top: 100px;
+    padding-top: 180px;
 }
 
 .foto {
   display: block;
-  height: 200px;
+  height: 350px;
+  width: 350px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -100px;
+  margin-top: -200px;
   border-radius: 100%;
 }
 
 #info {
-    height: 300px;
+    height: 400px;
     background-color: saddlebrown;
-    margin-top: -133px;
+    margin-top: -183px;
     text-align: center;
 }
 
@@ -61,7 +63,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
     font-size: 20px;
-    padding-top: 130px;
+    padding-top: 200px;
 }
 
 #linktrybe {
