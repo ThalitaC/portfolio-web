@@ -9,29 +9,39 @@ body {
 #menu {
     background-color: blanchedalmond;
     text-align: center;
-    height: 50px;
-    }
+    height: 20px;
+    padding: 20px;
+    margin-bottom: 0px;
+}
 
 .menu-itens a {
     color: black;
     text-decoration-line: none;
-    margin: 25px;
-    background-color: green;
-    padding-top: 20px;
+    margin: 25px;       
 }
 
 .menu-itens a:hover {
     color: green;
 }
 
-h1 {
+#nome {
     font-family: Verdana, sans-serif;
     font-size: 50px;
     text-align: center;
+    background-color:rebeccapurple;
+    height: 300px;    
+}
+
+h1 {
+    margin: 0px;
+    padding-top: 50px;
 }
 
 .foto {
   display: block;
+  height: 200px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: -100px;
+  border-radius: 100%;
 }
