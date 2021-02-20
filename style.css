@@ -27,8 +27,9 @@ body {
 }
 
 #nome {
-    font-family: Verdana, sans-serif;
+    font-family:'Comfortaa', cursive;
     font-size: 50px;
+    font-weight: 50;
     text-align: center;
     background-color:rebeccapurple;
     height: 350px;    
@@ -70,17 +71,20 @@ h2 {
     margin-right: auto;
 }
 
-#contato {
-    height: 50px;
-    background-color: snow;
-    
-}
-
-#rodape {
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     background-color: black;
     height: 20px;
     margin-top: -24px;
     color: aliceblue;
-    text-align: center;   
+    text-align: center;    
 }
+
+#contato {
+    background-color: ivory;
+    height: 40px;
+}
+
 
