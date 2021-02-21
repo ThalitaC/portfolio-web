@@ -31,16 +31,16 @@ body {
 
 #nome {
     font-family:'Comfortaa', cursive;
-    font-size: 50px;
+    font-size: 80px;
     font-weight: 50;
     text-align: center;
     background-color:;
-    height: 500px;    
+    height: 700px;    
 }
 
 h1 {
     margin: 0px;
-    padding-top: 180px;
+    padding-top: 250px;
 }
 
 .foto {
@@ -51,10 +51,11 @@ h1 {
   margin-right: auto;
   margin-top: -200px;
   border-radius: 100%;
+  background-color: aqua;
 }
 
 #info {
-    height: 400px;
+    height: 700px;
     background-color: #525252;
     margin-top: -183px;
     text-align: center;
@@ -64,9 +65,9 @@ h1 {
 #info-text {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
-    font-size: 20px;
+    font-size: 30px;
     color: #f0f8ff;
-    padding-top: 200px;
+    padding-top: 300px;
 }
 
 #linktrybe {
